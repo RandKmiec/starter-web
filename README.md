@@ -5,6 +5,8 @@ Here's some more text about it.
 
 ## Introduction
 
+Here's some sort of an example introduction.
+
 ## Purpose
 
 Sample website with plenty of files for demos
