@@ -13,4 +13,8 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
+Here's something about contributing
+
 ## Deployment
+
+This is a project you can deploy to a webserver
