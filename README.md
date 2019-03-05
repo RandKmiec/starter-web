@@ -18,3 +18,6 @@ Here's something about contributing
 ## Deployment
 
 This is a project you can deploy to a webserver
+
+### Copyright
+Copyright notice
