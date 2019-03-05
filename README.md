@@ -13,7 +13,9 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-Here's something about contributing
+Here's something about contributing.  Please fork this repo and then issue
+pull requets for review
+
 
 ## Deployment
 
