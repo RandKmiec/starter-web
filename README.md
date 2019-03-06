@@ -23,4 +23,4 @@ pull requets for review
 This is a project you can deploy to a webserver
 
 ### Copyright
-Copyright notice
+Copyright notice. All rights reserved
